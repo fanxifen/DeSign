@@ -7,9 +7,9 @@ function Footer() {
       <Divider w={"80%"} mx={"auto"} />
       <Container py={"2rem"}>
         <Text textAlign={"center"} fontSize={"1rem"}>
-          Build with 💜 by{" "}
-          <Link isExternal href="https://twitter.com/LakshayMaini_">
-            Lakshay
+            Technical Support  💜 by{" "}
+            <Link isExternal href="https://filecoin.io/">
+            IPFS/Filecoin
           </Link>
         </Text>
       </Container>

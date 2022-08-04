@@ -24,3 +24,13 @@ a {
 .h-shadow-blue {
   filter: drop-shadow(rgba(0, 112, 243, 0.4) 0px 5px 3px) !important;
 }
+
+.image-contain {
+  width: 634px;
+  height: 100%;
+  margin: 30px;
+}
+
+#_mixImgCanvas {
+  width: 100%;
+}
