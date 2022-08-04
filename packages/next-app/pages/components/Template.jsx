@@ -349,7 +349,7 @@ class Template extends React.Component{
                     display={"flex"}
                     align={"center"}>
                     <div>
-                        <div class="image-box">
+                        <div className="image-box">
                         </div>
                     </div>
                     <Stack spacing={"1em"} align={"center"}>
